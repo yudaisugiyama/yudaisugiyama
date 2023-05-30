@@ -21,8 +21,6 @@
 
 ## 🧑🏻‍💻 Portfolio Site
 
-About me.
-
 https://example.com
 
 ## 👾 Created Websites 
