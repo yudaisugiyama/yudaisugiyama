@@ -27,7 +27,7 @@ https://example.com
 
 ## 👾 Created Websites 
 
-1. https://hairstationmika.net
+1. Beauty salon website. https://hairstationmika.net
 
 ## 😈 Languages and Tools
 
