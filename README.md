@@ -21,11 +21,13 @@
 
 ## 🧑🏻‍💻 Portfolio Site
 
+About me.
+
 https://example.com
 
 ## 👾 Created Websites 
 
-https://hairstationmika.net
+1. https://hairstationmika.net
 
 ## 😈 Languages and Tools
 
