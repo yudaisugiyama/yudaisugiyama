@@ -19,11 +19,11 @@
   />
 </picture>
 
-## 🧑🏻‍💻 Portfolio site
+## 🧑🏻‍💻 Portfolio Site
 
 https://example.com
 
-## 👾 Websites created
+## 👾 Created Websites 
 
 https://hairstationmika.net
 
