@@ -23,7 +23,7 @@
 
 https://yudaisugiyama-portfolio.onrender.com
 
-※ During a cold start, it may load for a few minutes.
+※ Sorry, it's cold start and needs a few minutes to load.
 
 ## 👾 Created Websites 
 
