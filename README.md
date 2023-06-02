@@ -38,4 +38,4 @@ Very interested in.
 I can handle a few others.
 
 [![My Skills](https://skillicons.dev/icons?i=fortran,javascript,typescript,c,java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,sqlite,nginx,nodejs,nextjs,express,react,jquery,html,css,figma,bootstrap,wordpress,mysql,aws,dynamodb,gcp,latex,vscode,vim,atom,visualstudio,unity,blender,github,markdown,cmake,git,docker,solidity,heroku,linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,sqlite,nginx,nodejs,nextjs,express,react,jquery,html,css,figma,bootstrap,wordpress,mysql,aws,dynamodb,gcp,latex,vscode,vim,atom,idea,visualstudio,unity,blender,github,markdown,cmake,git,docker,solidity,heroku,linux,raspberrypi,arduino,discord,processing)](https://skillicons.dev)
