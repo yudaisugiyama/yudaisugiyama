@@ -25,9 +25,10 @@ https://yudaisugiyama-portfolio.onrender.com
 
 ※ Sorry, it's cold start and needs a few minutes to load.
 
-## 👾 Created Websites 
+## 👾 Created Web Apps 
 
 1. Beauty salon website. https://hairstationmika.net
+2. 
 
 ## 😈 Languages and Tools
 
@@ -35,7 +36,7 @@ Very interested in.
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,gcp)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudaisugiyama&layout=large&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudaisugiyama&hide_progress=false)
 
 I can handle a few others.
 
