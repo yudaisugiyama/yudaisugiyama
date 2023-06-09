@@ -36,7 +36,7 @@ Very interested in.
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,gcp)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudaisugiyama&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudaisugiyama&hide_progress=false&theme=dark)
 
 I can handle a few others.
 
