@@ -28,7 +28,6 @@ https://yudaisugiyama-portfolio.onrender.com
 ## 👾 Created Web Apps 
 
 1. Beauty salon website. https://hairstationmika.net
-2. 
 
 ## 😈 Languages and Tools
 
@@ -40,5 +39,5 @@ Very interested in.
 
 I can handle a few others.
 
-[![My Skills](https://skillicons.dev/icons?i=fortran,javascript,typescript,c,java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,sqlite,nginx,nodejs,nextjs,express,react,jquery,html,css,figma,bootstrap,wordpress,mysql,aws,dynamodb,gcp,latex,vscode,vim,atom,idea,visualstudio,unity,blender,github,markdown,cmake,git,docker,solidity,heroku,linux,raspberrypi,arduino,discord,processing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fortran,javascript,typescript,c,java,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,django,sqlite,nginx,nodejs,nextjs,express,react,jquery,html,css,figma,bootstrap,wordpress,mysql,rails,aws,dynamodb,gcp,latex,vscode,vim,atom,idea,visualstudio,unity,blender,github,markdown,cmake,git,docker,solidity,heroku,linux,raspberrypi,arduino,discord,processing)](https://skillicons.dev)
